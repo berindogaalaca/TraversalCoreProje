@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Traversal-Starter\\about.html"
     },
     {
+      "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\assets\\css\\style-liberty.css",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\css\\style-liberty.css"
+    },
+    {
       "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\assets\\css\\style-starter.css",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\css\\style-starter.css"
     },
@@ -201,12 +205,32 @@
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\theme-change.js"
     },
     {
+      "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\blog-single.html",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\blog.html",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\blog.html"
+    },
+    {
       "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\contact.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\contact.html"
     },
     {
       "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\index.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\landing-single.html",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\landing-single.html"
+    },
+    {
+      "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\liberty-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\liberty-license-W3Layouts.txt"
+    },
+    {
+      "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\pricing.html",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\pricing.html"
     },
     {
       "Id": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\services.html",
