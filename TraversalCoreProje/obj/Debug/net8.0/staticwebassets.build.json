@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ay3LkDi2Oz5+i29Je6Vss18ZK9A1ItM+8eO5e4AaeVo=",
+  "Hash": "1Bf5MMp73iKApdqrSk8E0J/UqlhsgWXJyqmEtzIE6+8=",
   "Source": "TraversalCoreProje",
   "BasePath": "_content/TraversalCoreProje",
   "Mode": "Default",
@@ -1193,25 +1193,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter.rar",
-      "SourceId": "TraversalCoreProje",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\",
-      "BasePath": "_content/TraversalCoreProje",
-      "RelativePath": "Traversal-Starter.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Traversal-Starter.rar"
     },
     {
       "Identity": "C:\\Users\\Doa\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\wwwroot\\Traversal-Starter\\about.html",
